@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m  working on a browser extension that tracks screen time and analyzes the data to see how proficient one is. <br>👯 I’m looking a collaborate on any open-source projects that provide change to real-world problems. <br>🤝 I’m  seeking full-time positions upon graduating in August 2025. <br>🌱 I’m currently learning new front end frame works, focusing on JavaScript frameworks. Additionally, I am also learning new database skills, such as MongoDB, which will be implemented into Productivv<br>💬 Contact me at shaikhnab23@gmail.com, let's get in touch!
+🔭 I’m  working on a browser extension that tracks screen time and analyzes the data to see how proficient one is when using a browser - Productivv. <br>👯 I’m looking a collaborate on any open-source projects that provide change to real-world problems. <br>🤝 I’m  seeking full-time positions upon graduating in August 2025. <br>🌱 I’m currently learning new front end frame works, focusing on JavaScript frameworks. Additionally, I am also learning new database skills, such as MongoDB, which will be implemented into Productivv<br>💬 Contact me at shaikhnab23@gmail.com, let's get in touch!
 
 
 ## 🌐 Socials:
